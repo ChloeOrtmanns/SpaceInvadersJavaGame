@@ -1,0 +1,10 @@
+be.uantwerpen.fti.ei
+be.uantwerpen.fti.ei.gamelogic
+be.uantwerpen.fti.ei.gamelogic.Entities
+be.uantwerpen.fti.ei.gamelogic.Entities.ScreenEntities
+be.uantwerpen.fti.ei.gamelogic.Helpers
+be.uantwerpen.fti.ei.gamelogic.Inputs
+be.uantwerpen.fti.ei.gamelogic.Movement
+be.uantwerpen.fti.ei.gamelogic.Visuals
+be.uantwerpen.fti.ei.gamelogic.Visuals.Blocks
+be.uantwerpen.fti.ei.gamelogic.Visuals.J2D
